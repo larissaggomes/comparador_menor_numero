@@ -1,3 +1,4 @@
+#include<stdio.h>
 
 int menor(int n,int nm){
  if(n<nm){
